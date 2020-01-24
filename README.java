@@ -1,5 +1,6 @@
 # Dictionary
 //Dictionary like app. Add a word and its defintion in an accompanying textfile. Search up words in the dictionary but writng part of the word. You can also remove words and other stuff.
+// Functions include Add, remove, contains, findword, and Wordtext (definition or w.e you put in the file)
 
 import java.util.ArrayList;
 import java.util.HashMap;

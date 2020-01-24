@@ -1,5 +1,5 @@
 # Dictionary
-//Dictionary like app
+//Dictionary like app. Add a word and its defintion in an accompanying textfile. Search up words in the dictionary but writng part of the word. You can also remove words and other stuff.
 
 import java.util.ArrayList;
 import java.util.HashMap;
